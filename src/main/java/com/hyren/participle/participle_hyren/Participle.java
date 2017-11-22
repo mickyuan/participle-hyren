@@ -14,7 +14,7 @@ import com.hankcs.hanlp.HanLP;
 import com.hankcs.hanlp.seg.common.Term;
 
 /**
- * 
+ * 呵呵
  * Description: 处理文本文件：
  * 	1.字典出现的词，但是并未在文本文件中标注的，标注出来
  * 	2.字典未出现的词，但是 在文本文件中标注了，就将这个词写入到字典 
