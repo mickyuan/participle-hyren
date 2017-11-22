@@ -167,6 +167,7 @@ public class Participle {
 					bw.newLine();
 				}
 				catch(IOException e) {
+					
 					e.printStackTrace();
 				}
 			}
